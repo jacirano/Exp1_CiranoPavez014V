@@ -1,0 +1,21 @@
+.responsivo {
+    width: 100%;
+    max-width: 400px;
+    height:max-content ;
+  }
+
+
+.card-img-bottom {
+    margin: 10px;
+    padding: 20px;
+    border: 10px solid #ccc;
+  }
+
+
+.card-img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 50%;
+}
